@@ -2,7 +2,7 @@
 
 <h3 align="center">chael.sera</h3>
 <p align="center">
-    Curricula for Summer 2020
+    Curricula for 2020
 </p>
 
 # Contents
