@@ -77,10 +77,10 @@
 
 ### References
 
-* MITRE ATT&CK Matrices](https://attack.mitre.org/matrices/enterprise/)
-* OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
-* OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/stable/)
-* 
+* [MITRE ATT&CK Matrices](https://attack.mitre.org/matrices/enterprise/)
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+* [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/stable/)
+
 ## Reversing
 
 ### Curricula
