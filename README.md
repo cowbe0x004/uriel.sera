@@ -1,5 +1,3 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/La_batalla_de_San_Romano%2C_por_Paolo_Uccello.jpg/1920px-La_batalla_de_San_Romano%2C_por_Paolo_Uccello.jpg)
-
 <h3 align="center">chael.sera</h3>
 <p align="center">
     Curricula for 2020
